@@ -1,0 +1,4 @@
+[submodule "intpath/naseem_warth"]
+	path = intpath/naseem_warth
+	url = git@github.com:intpath/naseem_warth.git
+	branch = master
