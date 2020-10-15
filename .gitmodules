@@ -2,3 +2,8 @@
 	path = intpath/naseem_warth
 	url = git@github.com:intpath/naseem_warth.git
 	branch = master
+
+[submodule "intpath/pos_invoice_report_custom"]
+	path = intpath/pos_invoice_report_custom
+	url = git@github.com:intpath/pos_invoice_report_custom.git
+	branch = master
