@@ -7,3 +7,8 @@
 	path = intpath/pos_invoice_report_custom
 	url = git@github.com:intpath/pos_invoice_report_custom.git
 	branch = master
+
+[submodule "intpath/haval_crm_extension"]
+	path = intpath/haval_crm_extension
+	url = git@github.com:intpath/haval_crm_extension.git
+	branch = master
