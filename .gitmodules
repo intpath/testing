@@ -12,3 +12,8 @@
 	path = intpath/haval_crm_extension
 	url = git@github.com:intpath/haval_crm_extension.git
 	branch = master
+
+[submodule "intpath/auto_backup"]
+	path = intpath/auto_backup
+	url = git@github.com:intpath/auto_backup.git
+	branch = master
